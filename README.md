@@ -1,7 +1,7 @@
 Project1
 ==============================
 
-First MLOps Projects
+First MLOps Project
 
 Project Organization
 ------------
